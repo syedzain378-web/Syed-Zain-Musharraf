@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn Portfolio & Certificate Hub",
+  "description": "Generate a detailed, interactive professional portfolio from your LinkedIn profile with an immersive full-screen certificate viewer, direct project previews, resume modal, and credentials hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
